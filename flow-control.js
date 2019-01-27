@@ -25,7 +25,7 @@ else if ( age >19) {
 
 function ternaryTeenager(age) {
   if (age >=13 && age <=19) {
-    return conditionToTest ("You are a teenager")
+    return ("You are a teenager") ; }
 
 }
 
